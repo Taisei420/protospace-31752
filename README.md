@@ -11,7 +11,7 @@
 | occupation | text   | null: false |
 | position   | text   | null: false |
 
-##　prototypes テーブル
+## prototypes テーブル
 
 | Column     | Type       | Options     |
 | ---------- | ---------- | ----------- |
@@ -27,3 +27,11 @@
 | text      | text       | null: false |
 | user      | references |             |
 | prototype | references |             |
+
+## アプリケーション名
+
+Training note
+
+## アプリケーション概要
+
+Training noteでは日々のトレーニングを記録ができます。
